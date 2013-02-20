@@ -1,0 +1,264 @@
+[submodule "puppet-chrome"]
+	path = puppet-chrome
+	url = git://github.com/boxen/puppet-chrome.git
+[submodule "puppet-mysql"]
+	path = puppet-mysql
+	url = git://github.com/boxen/puppet-mysql.git
+[submodule "puppet-ruby"]
+	path = puppet-ruby
+	url = git://github.com/boxen/puppet-ruby.git
+[submodule "puppet-postgresql"]
+	path = puppet-postgresql
+	url = git://github.com/boxen/puppet-postgresql.git
+[submodule "puppet-boxen"]
+	path = puppet-boxen
+	url = git://github.com/boxen/puppet-boxen.git
+[submodule "puppet-alfred"]
+	path = puppet-alfred
+	url = git://github.com/boxen/puppet-alfred.git
+[submodule "puppet-cassandra"]
+	path = puppet-cassandra
+	url = git://github.com/boxen/puppet-cassandra.git
+[submodule "puppet-mongodb"]
+	path = puppet-mongodb
+	url = git://github.com/boxen/puppet-mongodb.git
+[submodule "puppet-template"]
+	path = puppet-template
+	url = git://github.com/boxen/puppet-template.git
+[submodule "puppet-java"]
+	path = puppet-java
+	url = git://github.com/boxen/puppet-java.git
+[submodule "puppet-python"]
+	path = puppet-python
+	url = git://github.com/boxen/puppet-python.git
+[submodule "puppet-zsh"]
+	path = puppet-zsh
+	url = git://github.com/boxen/puppet-zsh.git
+[submodule "puppet-zeromq"]
+	path = puppet-zeromq
+	url = git://github.com/boxen/puppet-zeromq.git
+[submodule "puppet-xquartz"]
+	path = puppet-xquartz
+	url = git://github.com/boxen/puppet-xquartz.git
+[submodule "puppet-xpdf"]
+	path = puppet-xpdf
+	url = git://github.com/boxen/puppet-xpdf.git
+[submodule "puppet-wkhtmltopdf"]
+	path = puppet-wkhtmltopdf
+	url = git://github.com/boxen/puppet-wkhtmltopdf.git
+[submodule "puppet-wget"]
+	path = puppet-wget
+	url = git://github.com/boxen/puppet-wget.git
+[submodule "puppet-watts"]
+	path = puppet-watts
+	url = git://github.com/boxen/puppet-watts.git
+[submodule "puppet-vlc"]
+	path = puppet-vlc
+	url = git://github.com/boxen/puppet-vlc.git
+[submodule "puppet-viscosity"]
+	path = puppet-viscosity
+	url = git://github.com/boxen/puppet-viscosity.git
+[submodule "puppet-virtualbox"]
+	path = puppet-virtualbox
+	url = git://github.com/boxen/puppet-virtualbox.git
+[submodule "puppet-things"]
+	path = puppet-things
+	url = git://github.com/boxen/puppet-things.git
+[submodule "puppet-textmate"]
+	path = puppet-textmate
+	url = git://github.com/boxen/puppet-textmate.git
+[submodule "puppet-sysctl"]
+	path = puppet-sysctl
+	url = git://github.com/boxen/puppet-sysctl.git
+[submodule "puppet-swig"]
+	path = puppet-swig
+	url = git://github.com/boxen/puppet-swig.git
+[submodule "puppet-sudo"]
+	path = puppet-sudo
+	url = git://github.com/boxen/puppet-sudo.git
+[submodule "puppet-sublime_text_2"]
+	path = puppet-sublime_text_2
+	url = git://github.com/boxen/puppet-sublime_text_2.git
+[submodule "puppet-spotify"]
+	path = puppet-spotify
+	url = git://github.com/boxen/puppet-spotify.git
+[submodule "puppet-sparrow"]
+	path = puppet-sparrow
+	url = git://github.com/boxen/puppet-sparrow.git
+[submodule "puppet-solr"]
+	path = puppet-solr
+	url = git://github.com/boxen/puppet-solr.git
+[submodule "puppet-skype"]
+	path = puppet-skype
+	url = git://github.com/boxen/puppet-skype.git
+[submodule "puppet-sizeup"]
+	path = puppet-sizeup
+	url = git://github.com/boxen/puppet-sizeup.git
+[submodule "puppet-screen"]
+	path = puppet-screen
+	url = git://github.com/boxen/puppet-screen.git
+[submodule "puppet-scons"]
+	path = puppet-scons
+	url = git://github.com/boxen/puppet-scons.git
+[submodule "puppet-riak"]
+	path = puppet-riak
+	url = git://github.com/boxen/puppet-riak.git
+[submodule "puppet-repository"]
+	path = puppet-repository
+	url = git://github.com/boxen/puppet-repository.git
+[submodule "puppet-redis"]
+	path = puppet-redis
+	url = git://github.com/boxen/puppet-redis.git
+[submodule "puppet-rdio"]
+	path = puppet-rdio
+	url = git://github.com/boxen/puppet-rdio.git
+[submodule "puppet-rbenv"]
+	path = puppet-rbenv
+	url = git://github.com/boxen/puppet-rbenv.git
+[submodule "puppet-qt"]
+	path = puppet-qt
+	url = git://github.com/boxen/puppet-qt.git
+[submodule "puppet-propane"]
+	path = puppet-propane
+	url = git://github.com/boxen/puppet-propane.git
+[submodule "puppet-pkgconfig"]
+	path = puppet-pkgconfig
+	url = git://github.com/boxen/puppet-pkgconfig.git
+[submodule "puppet-phantomjs"]
+	path = puppet-phantomjs
+	url = git://github.com/boxen/puppet-phantomjs.git
+[submodule "puppet-pcre"]
+	path = puppet-pcre
+	url = git://github.com/boxen/puppet-pcre.git
+[submodule "puppet-osx"]
+	path = puppet-osx
+	url = git://github.com/boxen/puppet-osx.git
+[submodule "puppet-onepassword"]
+	path = puppet-onepassword
+	url = git://github.com/boxen/puppet-onepassword.git
+[submodule "puppet-nvm"]
+	path = puppet-nvm
+	url = git://github.com/boxen/puppet-nvm.git
+[submodule "puppet-notational_velocity"]
+	path = puppet-notational_velocity
+	url = git://github.com/boxen/puppet-notational_velocity.git
+[submodule "puppet-nodejs"]
+	path = puppet-nodejs
+	url = git://github.com/boxen/puppet-nodejs.git
+[submodule "puppet-nginx"]
+	path = puppet-nginx
+	url = git://github.com/boxen/puppet-nginx.git
+[submodule "puppet-minecraft"]
+	path = puppet-minecraft
+	url = git://github.com/boxen/puppet-minecraft.git
+[submodule "puppet-memcached"]
+	path = puppet-memcached
+	url = git://github.com/boxen/puppet-memcached.git
+[submodule "puppet-macvim"]
+	path = puppet-macvim
+	url = git://github.com/boxen/puppet-macvim.git
+[submodule "puppet-libtool"]
+	path = puppet-libtool
+	url = git://github.com/boxen/puppet-libtool.git
+[submodule "puppet-iterm2"]
+	path = puppet-iterm2
+	url = git://github.com/boxen/puppet-iterm2.git
+[submodule "puppet-istatmenus3"]
+	path = puppet-istatmenus3
+	url = git://github.com/boxen/puppet-istatmenus3.git
+[submodule "puppet-inifile"]
+	path = puppet-inifile
+	url = git://github.com/boxen/puppet-inifile.git
+[submodule "puppet-imagemagick"]
+	path = puppet-imagemagick
+	url = git://github.com/boxen/puppet-imagemagick.git
+[submodule "puppet-icu4c"]
+	path = puppet-icu4c
+	url = git://github.com/boxen/puppet-icu4c.git
+[submodule "puppet-hub"]
+	path = puppet-hub
+	url = git://github.com/boxen/puppet-hub.git
+[submodule "puppet-homebrew"]
+	path = puppet-homebrew
+	url = git://github.com/boxen/puppet-homebrew.git
+[submodule "puppet-heroku"]
+	path = puppet-heroku
+	url = git://github.com/boxen/puppet-heroku.git
+[submodule "puppet-handbrake"]
+	path = puppet-handbrake
+	url = git://github.com/boxen/puppet-handbrake.git
+[submodule "puppet-gyp"]
+	path = puppet-gyp
+	url = git://github.com/boxen/puppet-gyp.git
+[submodule "puppet-graphviz"]
+	path = puppet-graphviz
+	url = git://github.com/boxen/puppet-graphviz.git
+[submodule "puppet-gpgme"]
+	path = puppet-gpgme
+	url = git://github.com/boxen/puppet-gpgme.git
+[submodule "puppet-gitx"]
+	path = puppet-gitx
+	url = git://github.com/boxen/puppet-gitx.git
+[submodule "puppet-git"]
+	path = puppet-git
+	url = git://github.com/boxen/puppet-git.git
+[submodule "puppet-ghostscript"]
+	path = puppet-ghostscript
+	url = git://github.com/boxen/puppet-ghostscript.git
+[submodule "puppet-geoip"]
+	path = puppet-geoip
+	url = git://github.com/boxen/puppet-geoip.git
+[submodule "puppet-gcc"]
+	path = puppet-gcc
+	url = git://github.com/boxen/puppet-gcc.git
+[submodule "puppet-fitbit"]
+	path = puppet-fitbit
+	url = git://github.com/boxen/puppet-fitbit.git
+[submodule "puppet-erlang"]
+	path = puppet-erlang
+	url = git://github.com/boxen/puppet-erlang.git
+[submodule "puppet-emacs"]
+	path = puppet-emacs
+	url = git://github.com/boxen/puppet-emacs.git
+[submodule "puppet-elasticsearch"]
+	path = puppet-elasticsearch
+	url = git://github.com/boxen/puppet-elasticsearch.git
+[submodule "puppet-dropbox"]
+	path = puppet-dropbox
+	url = git://github.com/boxen/puppet-dropbox.git
+[submodule "puppet-dpkg"]
+	path = puppet-dpkg
+	url = git://github.com/boxen/puppet-dpkg.git
+[submodule "puppet-dnsmasq"]
+	path = puppet-dnsmasq
+	url = git://github.com/boxen/puppet-dnsmasq.git
+[submodule "puppet-divvy"]
+	path = puppet-divvy
+	url = git://github.com/boxen/puppet-divvy.git
+[submodule "puppet-colloquy"]
+	path = puppet-colloquy
+	url = git://github.com/boxen/puppet-colloquy.git
+[submodule "puppet-clojure"]
+	path = puppet-clojure
+	url = git://github.com/boxen/puppet-clojure.git
+[submodule "puppet-caffeine"]
+	path = puppet-caffeine
+	url = git://github.com/boxen/puppet-caffeine.git
+[submodule "puppet-autoconf"]
+	path = puppet-autoconf
+	url = git://github.com/boxen/puppet-autoconf.git
+[submodule "puppet-augeas"]
+	path = puppet-augeas
+	url = git://github.com/boxen/puppet-augeas.git
+[submodule "puppet-arq"]
+	path = puppet-arq
+	url = git://github.com/boxen/puppet-arq.git
+[submodule "puppet-flux"]
+	path = puppet-flux
+	url = git://github.com/boxen/puppet-flux.git
+[submodule "puppet-airfoil"]
+	path = puppet-airfoil
+	url = git://github.com/boxen/puppet-airfoil.git
+[submodule "puppet-istatmenus4"]
+	path = puppet-istatmenus4
+	url = git://github.com/boxen/puppet-istatmenus4.git
